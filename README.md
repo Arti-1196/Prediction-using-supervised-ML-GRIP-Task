@@ -1,7 +1,7 @@
 # Prediction-using-supervised-ML-GRIP-Task
 Prediction using supervised ML-GRIP Task-1
 Hello, everyone
-I am glad to share that I have successfully completed #Task2 #GRIPMAR21 #GRIPMARCH21 in
+I am glad to share that I have successfully completed #Task1 #GRIPMAR21 #GRIPMARCH21 in
 the domain of data science & business analytics
 I am very thankful to The Sparks Foundation for providing me with this opportunity.
 
